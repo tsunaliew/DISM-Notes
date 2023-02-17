@@ -1,9 +1,6 @@
 # DISM-Notes
 All theory heavy SP DISM lecture/note materials from Academic Years 2019-current
 
-All notes are also published on my hackmd profile
-https://hackmd.io/@KarWei
-
 Repo will get updated after every sem after I finish each module
 
 # Overview
